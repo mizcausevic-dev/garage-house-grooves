@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/garage-house-grooves-simple-synth-preview.mp3",
+  "source_audio_sha256": "d7e5ab242a5999210ae641804d9d91fa4121e4f832503f81bf9d469974cb10e2",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "281555872bd7032a67af0f653385dbce2ec8879d0c1f0e4f2ce93195e595f4de",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

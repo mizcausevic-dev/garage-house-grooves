@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+gh01,Brick Turn,pack-local equal-tempered pitch collection,C#,126,4/4,480,32,61440,midi/gh01-brick-turn/gh01-brick-turn-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+gh02,Rain Step,pack-local equal-tempered pitch collection,E,126,4/4,480,32,61440,midi/gh02-rain-step/gh02-rain-step-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+gh03,Side Entrance,pack-local equal-tempered pitch collection,G,126,4/4,480,32,61440,midi/gh03-side-entrance/gh03-side-entrance-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+gh04,After Hours,pack-local equal-tempered pitch collection,D,126,4/4,480,32,61440,midi/gh04-after-hours/gh04-after-hours-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
