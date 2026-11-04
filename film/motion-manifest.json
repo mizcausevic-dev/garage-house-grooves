@@ -1,0 +1,26 @@
+{
+  "title": "Garage House Grooves",
+  "study": "gh01",
+  "bpm": 126,
+  "source_audio": "preview/garage-house-grooves-simple-synth-preview.mp3",
+  "source_audio_sha256": "d7e5ab242a5999210ae641804d9d91fa4121e4f832503f81bf9d469974cb10e2",
+  "source_midi": "midi/gh01-brick-turn/gh01-brick-turn-combined.mid",
+  "source_midi_sha256": "be7bb2a3bc06e8022e9fe49a4d34cfd6a524a0d145a7c018363c89f48fa1fa24",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "6d502b6c9db093982a7f3c5f435a029c6bf31c64c1686040d1b6ffec84a62665",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "e5fad4bfe556b7ab675bd48c8a84e7970fb3d849a6bedfa57fd5d3c0a68e92a0",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "63fa2aa0be824dc5d171db89f81844f033c40cf920f56f8666164aaa9caf800d",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
