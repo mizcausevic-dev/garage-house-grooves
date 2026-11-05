@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:28.594524+00:00",
+  "run_time_utc": "2026-11-05T23:07:20.500152+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/gh01-brick-turn/gh01-brick-turn-combined.mid",
-      "bytes": 5824,
-      "sha256": "be7bb2a3bc06e8022e9fe49a4d34cfd6a524a0d145a7c018363c89f48fa1fa24",
+      "bytes": 5732,
+      "sha256": "f7da00bea976e3ef27fbacf8a53c8869846df928b56d7deb4798ab39b5466ff6",
       "errors": []
     },
     {
       "path": "midi/gh01-brick-turn/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "ec33e7f2be3e5bb7f6d3d83756403184d2ce5152368cbba5a9b249ca3ab6b742",
+      "bytes": 639,
+      "sha256": "14303fec0af13d7006ecfd9c513e028f399642dda21dc2df9fbd9f29cd9ecded",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/gh02-rain-step/gh02-rain-step-combined.mid",
-      "bytes": 5824,
-      "sha256": "238d353ec4b82ea8544f7e3d0718fb4311014e73973fd66db4dfdf459e781ab4",
+      "bytes": 5733,
+      "sha256": "547db61b29f833546c4b1b925f77177c3186f58f721991b6ba4b9cd9e238d044",
       "errors": []
     },
     {
       "path": "midi/gh02-rain-step/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "442fb400b9de9a96fc64ee8a95222d9d2b2e8106abf6b2e1dccb79b8e12385f5",
+      "bytes": 640,
+      "sha256": "d94e26ace64af863853ed64c96803f8f60ed013672f0b6a12d5696dde756dbd6",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/gh03-side-entrance/gh03-side-entrance-combined.mid",
-      "bytes": 5804,
-      "sha256": "4d4dba607ae580ae033c228504907a7edab08ac18e43d7c4060c3a4bea294324",
+      "bytes": 5733,
+      "sha256": "0fdc9cc814b1903583d323dfa4fe4ae43b14751a5c2c99e7f06704103cf2187f",
       "errors": []
     },
     {
       "path": "midi/gh03-side-entrance/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "2348413a12375d6e159e2955e5bef94071c82028a839bd14a238b2e77db0e98d",
+      "bytes": 640,
+      "sha256": "3a592a927f8611d6c5756e438aafc7caa6ddf10ba4a3e7adf4ccbb2404cf76ab",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/gh04-after-hours/gh04-after-hours-combined.mid",
-      "bytes": 5804,
-      "sha256": "9da1497a565f170f7b273b7f2fc29f1a053f74eeb71c4e563dd80b01d08c52dc",
+      "bytes": 5733,
+      "sha256": "d521361efa67f873c5605e90ca65caea0678f6c29dd1e1bf7d428079e5c757ae",
       "errors": []
     },
     {
       "path": "midi/gh04-after-hours/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "47aaa0a6d999de96524744092a486ac609b8a9420598487fecbf518455a4dde9",
+      "bytes": 640,
+      "sha256": "2befe720fdf7ea53c2253ae86c85ae4395bca4e1713eeba2c22db63864321eff",
       "errors": []
     },
     {

@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/garage-house-grooves-simple-synth-preview.mp3",
-  "preview_sha256": "d7e5ab242a5999210ae641804d9d91fa4121e4f832503f81bf9d469974cb10e2",
+  "preview_sha256": "6ade148ec86f76cb6a8513ca82ce6751da567bbd5a26c9e5c815e42b0c2a08fa",
   "source_midi_path": "midi/gh01-brick-turn/gh01-brick-turn-combined.mid",
-  "source_midi_sha256": "be7bb2a3bc06e8022e9fe49a4d34cfd6a524a0d145a7c018363c89f48fa1fa24",
+  "source_midi_sha256": "f7da00bea976e3ef27fbacf8a53c8869846df928b56d7deb4798ab39b5466ff6",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,

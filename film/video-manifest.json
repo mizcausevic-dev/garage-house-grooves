@@ -1,15 +1,26 @@
 {
+  "title": "Garage House Grooves",
+  "study": "gh01",
+  "bpm": 126,
   "source_audio": "preview/garage-house-grooves-simple-synth-preview.mp3",
-  "source_audio_sha256": "d7e5ab242a5999210ae641804d9d91fa4121e4f832503f81bf9d469974cb10e2",
+  "source_audio_sha256": "6ade148ec86f76cb6a8513ca82ce6751da567bbd5a26c9e5c815e42b0c2a08fa",
+  "source_midi": "midi/gh01-brick-turn/gh01-brick-turn-combined.mid",
+  "source_midi_sha256": "f7da00bea976e3ef27fbacf8a53c8869846df928b56d7deb4798ab39b5466ff6",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "4ab2234de6ef6332f94662367529bfd4fcef35202559c4ec2cb47364a1b76d71",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "e5fad4bfe556b7ab675bd48c8a84e7970fb3d849a6bedfa57fd5d3c0a68e92a0",
   "excerpt_start_seconds": 0,
-  "excerpt_duration_seconds": 18,
-  "video": "film/preview.mp4",
-  "video_sha256": "281555872bd7032a67af0f653385dbce2ec8879d0c1f0e4f2ce93195e595f4de",
   "duration_seconds": 18.0,
-  "video_codec": "H.264",
-  "audio_codec": "AAC",
+  "video": "film/preview.mp4",
+  "video_sha256": "d0281466378ba1919a2ed9d13d76cebdb4a53a82f59873d1e16ac88b89ccb843",
   "caption": "film/preview.vtt",
-  "poster": "film/poster.jpg",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
   "disclosure": "preview, not master",
-  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
 }
