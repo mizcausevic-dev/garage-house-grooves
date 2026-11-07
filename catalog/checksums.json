@@ -193,8 +193,8 @@
     },
     {
       "path": "downloads/garage-house-grooves-midi.zip",
-      "bytes": 31539,
-      "sha256": "fcb616da5727be4120942f649e30f0b65c679ffa63abaa05028c9f516e20eba0"
+      "bytes": 32526,
+      "sha256": "dba97838a8c304dd19174d6d72deee2c27ae8df657b1d5eea7b1164a7ff65f31"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -243,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10801,
-      "sha256": "7b9e78a1a5b5bc4a8ad37cef96b30399e36cd22c6b7de1a17d08803027414317"
+      "bytes": 10991,
+      "sha256": "ad412a52c671e5778b38bb8d89f02f0966e7f2b5403a60625f5300dce9f8482c"
     },
     {
       "path": "midi/gh01-brick-turn/chord_pulse.mid",
@@ -387,6 +387,11 @@
       "sha256": "6ffa3bc375db993d2baa2df48f61c9265d677b25f734163a0620e60b25deeddb"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 790,
       "sha256": "f64dd68ce78c414da22e06a90abb4e9918385588387ef90bf7550099b3f5960e"
@@ -403,8 +408,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4273,
-      "sha256": "5feff24e0e6f9929c95dfdf754321a9870931ba359a18b926f5d9b704b4c543b"
+      "bytes": 4388,
+      "sha256": "3bafab57ff4c7f3562a17592785c4c079818f9fd7c5b0ee0b879cb153453662f"
     },
     {
       "path": "REVISION.md",
